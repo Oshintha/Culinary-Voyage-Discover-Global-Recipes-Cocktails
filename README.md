@@ -1,6 +1,5 @@
 # Culinary-Voyage-Discover-Global-Recipes-Cocktails
-Develop a single-page application that allows users to explore a diverse range of
-recipes and cocktails from around the world. This project focuses on the core React
-concepts: state management with useState, side effects with useEffect, and
-reusability with custom hooks. The aim is to interact with TheMealDB and
-TheCocktailDB APIs for fetching data.
+
+Project Description:
+
+Recipes & Cocktails Explorer is a single-page application developed using React, enabling users to delve into a diverse array of recipes and cocktails sourced from around the globe. With features like search functionality, detailed recipe views, and random discovery options, users can embark on culinary adventures with ease. Leveraging TheMealDB and TheCocktailDB APIs, the project focuses on core React concepts, including state management, side effects, and reusability via custom hooks.
