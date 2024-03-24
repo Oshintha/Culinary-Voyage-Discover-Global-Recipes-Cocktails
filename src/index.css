@@ -111,8 +111,8 @@
 }
 
 .img {
-  max-width: 50%; /* Adjust the width as needed */
-  height: auto; /* Maintain aspect ratio */
-  display: block; /* Ensure the image is displayed as a block element */
-  margin: 0 auto; /* Center horizontally */
+  max-width: 80%;
+  height: auto;
+  align-items: center;
+  align-self: center;
 }
